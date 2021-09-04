@@ -3,7 +3,7 @@
 <code> I'm Yogesh Rajak. I'm a Web/ Mobile developer  with a strong focus on pragmatism and simplicity. I have completed my bachelor  degree in Information Technology Engineering and I am skilled in many development languages including Java, C++, Javascript.
 I enjoy keeping up with time, constantly learning new languages, concepts, and techs. </code>
 
-<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width=350 height=250 align="right"/>
+<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width=300 height=200 align="right"/>
 <h3>Languages and Tools</h3>
 <p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
