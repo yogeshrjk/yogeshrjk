@@ -1,6 +1,6 @@
 ### Hi...<img src="https://user-images.githubusercontent.com/65396589/132105076-2dcbaeb9-a4ce-4364-869f-e409dffc9191.gif" width=25 height=25/>
 
-<code> I'm Yogesh Rajak. I'm a Web/ Mobile developer  with a strong focus on pragmatism and simplicity. I have completed my bachelor  degree in Information Technology Engineering and I am skilled in many development languages including Java, C++, Javascript.
+<code> I'm Yogesh Rajak. I'm a Web/ Mobile developer. I have completed my bachelor degree in Information Technology Engineering and I am skilled in many development languages including Java, C++, Javascript.
 I enjoy keeping up with time, constantly learning new languages, concepts, and techs. </code>
 
 <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width=300 height=200 align="right"/>
