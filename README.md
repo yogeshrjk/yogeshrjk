@@ -4,11 +4,7 @@
 <h3>I'm Yogesh Rajak<br/></h3>
 <br/>
 
-
-- 👀 I’m interested in React js.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on some open source projects.
-- 📫 How to reach me <code><a href="https://yogeshrjk.github.io/">Portfolio</a></code>
+<code><a href="https://yogeshrjk.github.io/">Portfolio</a></code>
 
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yogesh_rjk)
