@@ -1,6 +1,5 @@
 ### Hey...<img src="https://user-images.githubusercontent.com/65396589/132105076-2dcbaeb9-a4ce-4364-869f-e409dffc9191.gif" width=25 height=25/>
 <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width=300 height=200 align="right"/>
-<img src="https://user-images.githubusercontent.com/65396589/132120969-837c663b-0c5a-44d4-8bc9-9cd37433e322.png" width=50 height=50 align="left"/> 
 <h3>I'm Yogesh Rajak<br/></h3>
 <br/>
 
