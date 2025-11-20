@@ -1,5 +1,5 @@
 <img src="output-onlinegiftools.gif" width=300 height=200 align="right" alt="Animated GIF showing Yogesh Rajak coding at a computer with a cheerful expression, surrounded by icons representing web development technologies such as React, JavaScript, and HTML. The background features a modern workspace with a bright and energetic atmosphere. Text in the image reads Yogesh Rajak Frontend Developer React Enthusiast."/>
-<h3>🚀 Yogesh Rajak | Frontend Developer | React Enthusiast</h3>
+<h3>**Yogesh Rajak** | Frontend Developer | React Enthusiast</h3>
 
 <code>🚀 View My Portfolio (https://yogeshrajak.tech/)</code>
 
@@ -25,8 +25,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js logo" width="40" height="40" title="Next.js" style="background:#fff; border-radius:8px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" width="40" height="40" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="40" height="40" title="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js logo" width="40" height="40" title="Express.js" style="background:#fff; border-radius:8px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="40" height="40" title="MongoDB"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js logo" width="40" height="40" title="Express.js" style="background:#fff; border-radius:8px;"/>
+ 
 
 <br/>
 
