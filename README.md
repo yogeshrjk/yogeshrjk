@@ -1,5 +1,5 @@
 <img src="output-onlinegiftools.gif" width=300 height=200 align="right" alt="Animated GIF showing Yogesh Rajak coding at a computer with a cheerful expression, surrounded by icons representing web development technologies such as React, JavaScript, and HTML. The background features a modern workspace with a bright and energetic atmosphere. Text in the image reads Yogesh Rajak Frontend Developer React Enthusiast."/>
-### **Yogesh Rajak** | Frontend Developer | React Enthusiast
+<h3> <strong>Yogesh Rajak</strong> | Frontend Developer | React Enthusiast</h3>
 
 <code>🚀 View My Portfolio (https://yogeshrajak.tech/)</code>
 
